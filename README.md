@@ -1,1 +1,3 @@
-# Intro-to-DS
+## SQL
+## Statistics
+## Visual Communications
